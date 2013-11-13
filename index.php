@@ -1,3 +1,3 @@
 <?php echo "bijay"; ?>
 <?php echo "jenkins testingng"; ?>
-<?php echo "autodeployyy-test"; ?>
+<?php echo "autodeployyy-test-remote"; ?>
